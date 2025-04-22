@@ -14927,7 +14927,7 @@ __metadata:
     sockjs-client: 1.6.1
     source-map-explorer: 2.5.3
     strip-ansi: 7.1.0
-    stylelint: 16.16.0
+    stylelint: 16.18.0
     stylelint-config-standard-scss: 14.0.0
     stylelint-no-unsupported-browser-features: 8.0.4
     stylelint-order: 6.0.4
@@ -19379,9 +19379,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"stylelint@npm:16.16.0":
-  version: 16.16.0
-  resolution: "stylelint@npm:16.16.0"
+"stylelint@npm:16.18.0":
+  version: 16.18.0
+  resolution: "stylelint@npm:16.18.0"
   dependencies:
     "@csstools/css-parser-algorithms": ^3.0.4
     "@csstools/css-tokenizer": ^3.0.3
@@ -19423,7 +19423,7 @@ __metadata:
     write-file-atomic: ^5.0.1
   bin:
     stylelint: bin/stylelint.mjs
-  checksum: 2261cdaf4283859535020078e15b5b9f726c36c864e2f8dbd62a78df70d6b551bb7c60bdf4557aa78d539364835f952a09b952eb04a09fd9fda00cd2e67010fd
+  checksum: f00693c3d5b1f75f656d65612bec20198c4a7c5a3900285ef3b752d00258b1e93e7a93eac8434ab9c0d157521b97ed6993ffdde0db53ac5d4c6de5f3e5cf049e
   languageName: node
   linkType: hard
 
