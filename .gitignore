@@ -29,7 +29,7 @@ node_modules
 .cached_tools
 
 # Helm deps
-charts/kubernetes-dashboard/
+charts/kubernetes-dashboard
 
 
 # Cypress
